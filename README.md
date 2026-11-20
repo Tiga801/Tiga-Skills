@@ -7,7 +7,7 @@
 需要 Python 3.11.4+ 与 git。
 
 ```bash
-git clone git@github.com:Tiga08/Tiga-Skills.git ~/Projects/Tiga/Skills
+git clone git@github.com:Tiga801/Tiga-Skills.git ~/Projects/Tiga/Skills
 cd ~/Projects/Tiga/Skills
 python3 skills/tiga-skills/scripts/skills.py install   # 建立链接
 python3 skills/tiga-skills/scripts/skills.py check     # 检查
